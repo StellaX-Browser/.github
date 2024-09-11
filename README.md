@@ -1,5 +1,3 @@
-Here’s a comprehensive README file for your organization that introduces the organization, its mission, and its projects, and provides guidance on how to get involved:
-
 ---
 
 # Welcome to StellaX Technologies!
@@ -19,18 +17,18 @@ StellaX Technologies focuses on leveraging artificial intelligence and advanced 
 ## 🚀 Our Projects
 
 ### StellaX AI Web Browser
-An advanced open-source web browser powered by AI, designed to provide a personalized browsing experience with enhanced privacy and efficiency.
+An advanced open-source web browser powered by AI, designed to provide a personalized browsing experience with enhanced privacy and efficiency for Software Developers.
 
-- **Features**: AI-driven recommendations, customizable interface, fast performance, and built-in privacy features.
-- **GitHub Repository**: [StellaX AI Web Browser](https://github.com/stellax-tech/stellax.web)
+- **Features**: AI-driven recommendations, customizable interface, a lot of developer tools, fast performance, and built-in privacy features.
+- **GitHub Repository**: [StellaX AI Web Browser](https://github.com/StellaX-Browser/vigilant-engine.git)
 - **Website**: [StellaX Web Browser](https://stellax.tech)
 
 ### LinkLearn
 A collaborative learning platform aimed at providing accessible education through real-time interaction and AI-driven insights. Targeted at students, professionals, and educators.
 
 - **Features**: Real-time collaboration, AI-powered educational tools, and user-friendly interface.
-- **GitHub Repository**: [LinkLearn](https://github.com/stellax-tech/linklearn)
-- **Website**: [LinkLearn Platform](https://linklearn.stellax.tech)
+- **GitHub Repository**: [LinkLearn](https://github.com/vvs-basanth/link-learn.git)
+- **Website**: [LinkLearn Platform](https://vvs-basanth.github.io/link-learn/)
 
 ## 📜 Contributing
 
@@ -41,22 +39,18 @@ We welcome contributions from the community to help us improve and expand our pr
    - Understand our goals and current tasks.
 
 2. **Check the Contributing Guidelines**:
-   - [Contributing Guidelines](https://github.com/stellax-tech/stellax.web/blob/main/CONTRIBUTING.md) for StellaX AI Web Browser.
-   - [Contributing Guidelines](https://github.com/stellax-tech/linklearn/blob/main/CONTRIBUTING.md) for LinkLearn.
+   - [Contributing Guidelines](/) for StellaX AI Web Browser.
 
 3. **Submit Issues and Pull Requests**:
    - Report bugs or suggest features using GitHub issues.
    - Submit pull requests with your contributions and improvements.
 
-4. **Join Our Community**:
-   - Engage with us on [Discord](https://discord.gg/stellax) or [Slack](https://slack.com/stellax).
-   - Follow us on [Twitter](https://twitter.com/stellax_tech) for updates and announcements.
 
 ## 📚 Resources
 
 - **Documentation**: [Read the Docs](https://docs.stellax.tech)
-- **Code of Conduct**: [Code of Conduct](https://github.com/stellax-tech/stellax.web/blob/main/CODE_OF_CONDUCT.md)
-- **Community Guidelines**: [Community Guidelines](https://github.com/stellax-tech/stellax.web/blob/main/COMMUNITY_GUIDELINES.md)
+- **Code of Conduct**: [Code of Conduct](/)
+- **Community Guidelines**: [Community Guidelines](/)
 
 ## 🤝 Get Involved
 
@@ -65,5 +59,3 @@ Your participation is crucial to our success. Whether you’re a developer, desi
 Thank you for visiting StellaX Technologies. Together, we can build the future of technology!
 
 ---
-
-Feel free to tailor this README to better fit your organization’s specific needs and branding.
