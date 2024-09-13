@@ -39,7 +39,7 @@ We welcome contributions from the community to help us improve and expand our pr
    - Understand our goals and current tasks.
 
 2. **Check the Contributing Guidelines**:
-   - [Contributing Guidelines](/) for StellaX AI Web Browser.
+   - [Contributing Guidelines](https://github.com/StellaX-Browser/.github/blob/main/CONTRIBUTING.md) for StellaX AI Web Browser.
 
 3. **Submit Issues and Pull Requests**:
    - Report bugs or suggest features using GitHub issues.
@@ -48,9 +48,8 @@ We welcome contributions from the community to help us improve and expand our pr
 
 ## 📚 Resources
 
-- **Documentation**: [Read the Docs](https://docs.stellax.tech)
-- **Code of Conduct**: [Code of Conduct](/)
-- **Community Guidelines**: [Community Guidelines](/)
+- **Code of Conduct**: [Code of Conduct](https://github.com/StellaX-Browser/.github/blob/main/CODE_OF_CONDUCT.md)
+- **Community Guidelines**: [Community Guidelines](https://github.com/StellaX-Browser/.github/blob/main/COMMUNITY_GUIDELINES.md)
 
 ## 🤝 Get Involved
 
